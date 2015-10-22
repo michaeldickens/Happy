@@ -6,9 +6,11 @@
  * Author: Michael Dickens <mdickens93@gmail.com>
  * Created: 2015-10-22
  * 
- * Simple happy program. Assumes that happiness is the product of
- * positive reinforcement, so creates a simple reinforcement learning
- * agent and then makes it happy.
+ * Simple happy program. This program is based on the hypothesis that
+ * happiness is the product of positive reinforcement, so for a
+ * program to be happy, it must get positively reinforced on decisions
+ * it makes. This program repeatedly makes a simple decision and then
+ * gets rewarded if the decision is correct.
  * 
  */
 
